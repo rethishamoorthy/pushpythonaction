@@ -15,8 +15,7 @@
 
 name: Run Python Script
 
-on:
-  push:
+on: [push]
 
 jobs:
   run-python:
